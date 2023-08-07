@@ -1,0 +1,3 @@
+n,m=map(int,input().split())
+square=n*m
+print(square//2)
